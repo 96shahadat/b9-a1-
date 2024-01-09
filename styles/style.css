@@ -1,0 +1,184 @@
+.heading{
+    color: white;
+    font-family: 'Roboto', sans-serif; ;
+    background-image: url( ../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    /* background: linear-gradient() */
+    width: 1320px;
+    height: 600px;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 900;
+    line-height: 20px;
+    margin: auto;
+    margin-top: 50px;
+}
+.OFF{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-top: 40px;
+}
+.text{
+    text-align: center;
+    padding: 140px 50px;
+    font-family: merriweather;
+}
+.red{
+    color: red;
+}
+.pht{
+    text-align: center;
+}.back{
+    background-image: url( ../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+    margin: auto;
+}
+.wlc{
+    /* text-align: center; */
+    color: white;
+    /* line-height: 88px; */
+    /* font-weight: 900px; */
+    /* font-size: 64px; */
+    /* letter-spacing: 7.04px; */
+    padding-left: 126px;
+    padding-right: 552px;
+    padding-top: 126px;
+    padding-bottom: 298px;
+}
+.time{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-top: 50px;
+}
+.b-color{
+    background-color: lightgoldenrodyellow;
+}
+.t-color{
+    color: #FF0000;
+}
+.btn-praimary{
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    background-color: #FF0000;
+    font-weight: 700;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.flx{
+    display: flex;
+}
+.girl{
+    padding-right: 268.14px;
+    padding-left: 268.14px;
+}
+.flx{
+    background-color: azure;
+}
+.mrg{
+    padding-top: 50px;
+    margin: auto;
+}
+.font{
+    font-size: 60px;
+}
+.siz{
+    font-size: 40px;
+    font-family: Merriweather;
+}
+.wh{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.discount{
+    padding-left: 205px;
+    padding-bottom: 50px;
+}
+.disc-img{
+    background-image: url( ../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.best{
+    color: #FF0000;
+}
+
+.Year{
+    color: #FF0000;
+}
+
+.yt{
+    margin: auto;
+    padding-left: 140px;
+}
+.ty{
+    margin: auto;
+    padding-right: 140px;
+}
+
+.back-clr{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: azure;
+}
+.product{
+    display: flex;
+}
+.mail-box{
+    text-align: center;
+    padding-left: 363px;
+    padding-right: 363px;
+    padding-bottom: 23px;
+    padding-top: 23px;
+}
+.mail-background{
+    margin-top: 50px;
+    background-color:darksalmon;
+}
+.bck-text{
+    color: white;
+    padding-right: 1050px;
+    padding-left: 140px;
+    padding-top: 120px;
+    padding-bottom: 200px;
+}
+
+.black-brgnd{
+    background-color: black;
+    margin-top: 50px;
+}
+.po{
+    color: white;
+    padding-top: 20px; 
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-left: 140px;
+}
+.un{
+    color: white;
+    padding-top: 20px;
+    padding-right: 140px;
+    padding-bottom: 50px;
+    padding-left: 1150px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
